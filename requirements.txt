@@ -1,0 +1,4 @@
+discord.py
+google-cloud-dialogflow
+python-dotenv
+flask

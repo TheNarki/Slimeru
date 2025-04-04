@@ -1,0 +1,2 @@
+# Slimeru
+Bot discord perso
